@@ -1,4 +1,4 @@
-anycluster (MYSQL version)
+anycluster (MySQL version)
 ============================
 
 This is the mysql version of https://github.com/biodiv/anycluster/
