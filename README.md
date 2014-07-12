@@ -56,7 +56,7 @@ USAGE
 2.start clustering
 
 
-```
+```javascript
 var anyclusterSettings = {
 				mapType : "google",
 				gridSize: 64, //integer
