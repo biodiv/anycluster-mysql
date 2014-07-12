@@ -42,10 +42,10 @@ Installation
 
 USAGE
 =====
-1.Load the required modules
+Load the required modules
 
-```
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?&key=YOURKEY&sensor=false"></script>
+```html
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=YOURKEY&sensor=false"></script>
 <script type="text/javascript" src="{% static 'anycluster/anycluster.js' %}"></script>
 <script type="text/javascript" src="{% static 'anycluster/django_ajax_csrf.js' %}"></script>
 <script type="text/javascript" src="{% static 'anycluster/anycluster_marker.js' %}"></script>
@@ -53,7 +53,7 @@ USAGE
 ```
 
 
-2.start clustering
+Start clustering
 
 
 ```javascript
